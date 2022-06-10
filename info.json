@@ -1,0 +1,9 @@
+{
+  "name": "floofLogistics",
+  "version": "0.1.3",
+  "title": "FloofLogistics",
+  "author": "FluffyJenkins",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "Logistics for trainssssssssss"
+}
